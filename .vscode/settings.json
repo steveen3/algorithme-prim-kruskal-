@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/jfxtras-labs-samples-8.0-r6-SNAPSHOT-all.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/jfoenix-8.0.4.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx-swt.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.web.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.swing.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.media.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.graphics.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.fxml.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.controls.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/javafx.base.jar",
+        "/home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib/controlsfx-8.40.14.jar"
+    ]
+}

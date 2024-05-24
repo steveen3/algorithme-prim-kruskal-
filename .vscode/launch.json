@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PrimMST",
+            "request": "launch",
+            "mainClass": "PrimMST",
+            "projectName": "vers_2f6a05b1"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstra",
+            "request": "launch",
+            "mainClass": "Dijkstra",
+            "projectName": "vers_2f6a05b1"
+        },
+        {
+            "type": "java",
+            "name": "KruskalMST",
+            "request": "launch",
+            "mainClass": "KruskalMST",
+            "projectName": "vers_2f6a05b1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vers_2f6a05b1",
+            "vmArgs": "--module-path /home/steveen/Bureau/logiciel/openjfx-22_linux-x64_bin-sdk/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
